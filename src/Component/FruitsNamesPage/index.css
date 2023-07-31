@@ -1,0 +1,23 @@
+.names-bg-container {
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+}
+
+.names-btn-el {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.names-para {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.highlight {
+  color: #fec653;
+  text-decoration: underline;
+}

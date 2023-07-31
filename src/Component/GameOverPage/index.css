@@ -1,0 +1,54 @@
+.gameover-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  min-width: 40%;
+  background-size: cover;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 70px;
+  list-style-type: none;
+}
+
+.tropy-img {
+  height: 150px;
+  width: 250px;
+  margin-top: 150px;
+}
+
+.gameover-para {
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.gameover-score {
+  font-weight: bold;
+  font-size: 33px;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.playagain-btn {
+  background-color: #cf60c8;
+  border-radius: 6px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  height: 40px;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+  margin-top: 5px;
+}
+
+.reset-btn-img {
+  height: 18px;
+  width: 18px;
+  margin-right: 8px;
+}

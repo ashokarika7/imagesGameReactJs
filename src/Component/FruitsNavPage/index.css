@@ -1,0 +1,47 @@
+.nav-bg-container {
+  background-color: #2c0e3a;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 60px;
+  width: 100%;
+  list-style-type: none;
+  margin-top: 0px;
+  padding-left: 0px;
+}
+
+.nav-bg-ul-container {
+  width: 100%;
+  margin-top: 0px;
+  margin-left: 0px;
+  list-style-type: none;
+}
+
+.nav-website-logo {
+  height: 20px;
+  width: 100px;
+  margin-left: 40px;
+}
+
+.timer-score-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-para-style {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.nav-span-el {
+  font-size: 17px;
+  color: #fec653;
+}
+
+.timer-img {
+  height: 16px;
+  width: 17px;
+  margin-right: 6px;
+  margin-left: 6px;
+}

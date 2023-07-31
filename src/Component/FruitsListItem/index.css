@@ -1,0 +1,16 @@
+.images-li-container {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.img-btn-el {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.images-container-img {
+  height: 55px;
+  width: 55px;
+}
